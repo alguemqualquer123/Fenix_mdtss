@@ -1,12 +1,16 @@
 {
-    "Fenix_mdt": [
+    "races": [
         {
-            "IP": "177.37.181.121",
-            "Token": "aaaa-aaaa"
+            "ip": "177.37.181.121",
+            "token": "aaaa-aaaa"
         },
         {
-            "IP": "177.37.181.122",
-            "Token": "bbbb-bbbb"
+            "ip": "177.37.181.122",
+            "token": "bbbb-bbbb"
+        },
+        {
+            "ip": "177.37.181.73",
+            "token": "bbbb-bbbb"
         }
     ]
 }
